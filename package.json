@@ -1,0 +1,26 @@
+{
+    "name": "jummiterm-vscode",
+    "displayName": "jummiterm-vscode",
+    "description": "Just a color theme. It's based on my personal vim and terminal colorschemes. Contains one dark theme and one light theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "jummidark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jummidark-vscode.json"
+            },
+            {
+                "label": "jummilight",
+                "uiTheme": "vs",
+                "path": "./themes/jummilight-vscode.json"
+            }
+        ]
+    }
+}
