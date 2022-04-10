@@ -2,6 +2,7 @@
     "name": "jummiterm-vscode",
     "displayName": "jummiterm-vscode",
     "description": "Just a color theme. It's based on my personal vim and terminal colorschemes. Contains one dark theme and one light theme.",
+    "repository": "https://github.com/jcherven/jummiterm-vscode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.66.0"
