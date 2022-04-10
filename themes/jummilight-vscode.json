@@ -1,5 +1,5 @@
 {
-  "name": "jummilight-vscode",
+  "name": "jummilight",
   "type": "light",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1789,7 +1789,7 @@
       "name": "Comments",
       "scope": "comment, punctuation.definition.comment",
       "settings": {
-        "fontStyle": "italic",
+        "fontStyle": "normal",
         "foreground": "#b2b2b2"
       }
     },
@@ -1826,14 +1826,14 @@
       "name": "comment",
       "scope": "comment.line.double-slash,comment.block.documentation",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "normal"
       }
     },
     {
       "name": "Python Keyword Control",
       "scope": "keyword.control.import.python,keyword.control.flow.python",
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "normal"
       }
     },
     {
