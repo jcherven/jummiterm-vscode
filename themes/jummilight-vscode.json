@@ -531,7 +531,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#262626"
+        "foreground": "#8700ff"
       }
     },
     {
@@ -566,7 +566,7 @@
       "name": "css property-name",
       "scope": "support.type.vendored.property-name.css",
       "settings": {
-        "foreground": "#262626"
+        "foreground": "#8700ff"
       }
     },
     {
@@ -1303,7 +1303,7 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#1c1c1c"
+        "foreground": "#008787"
       }
     },
     {
@@ -1742,7 +1742,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#262626"
+        "foreground": "#008787"
       }
     },
     {
