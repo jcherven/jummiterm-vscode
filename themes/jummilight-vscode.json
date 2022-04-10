@@ -1029,14 +1029,14 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#1c1c1c"
+        "foreground": "#8700ff"
       }
     },
     {
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#262626"
+        "foreground": "#af5fff"
       }
     },
     {
@@ -1044,7 +1044,7 @@
       "scope": "entity.other.attribute-name.id",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#d7005f"
+        "foreground": "#00d7d7"
       }
     },
     {
@@ -1052,7 +1052,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#262626"
+        "foreground": "#8700ff"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       "name": "illegal",
       "scope": "invalid.illegal.bad-ampersand.html",
       "settings": {
-        "foreground": "#262626"
+        "foreground": "#d7005f"
       }
     },
     {
@@ -1303,7 +1303,7 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#008787"
+        "foreground": "#8700ff"
       }
     },
     {
@@ -1732,7 +1732,7 @@
         "constant.character.entity"
       ],
       "settings": {
-        "foreground": "#1c1c1c"
+        "foreground": "#008787"
       }
     },
     {
